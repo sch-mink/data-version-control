@@ -1,0 +1,5 @@
+[core]
+    remote = remote_storage
+    analytics = false
+['remote "remote_storage"']
+    url = D:\\Learn_python\\DVC\\dvc_remote
